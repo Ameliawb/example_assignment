@@ -5,8 +5,7 @@ What technology was used by your relatives, and what seeds do you wish to plant 
 
 ## Getting Started
 
-Once you choose a technology, create your chosen ancestral technology with a current technology. Example: [my own research on blockchain and wampum](https://immerse.news/decentralized-storytelling-d8450490b3ee)
-, or hand woven looms and binary.  
+Once you choose a technology, create your chosen ancestral technology with a current technology. Example: [my own research on blockchain and wampum](https://immerse.news/decentralized-storytelling-d8450490b3ee).  Sometimes 'ancient' technology is referenced in TED talks as the beginning of a technological idea, but they were complete for their community, how has some of that 'completeness' been lost? How is it still aparent in modern tools?  How will you find out? Research your ancestry, your own family stories, oral traditions, religions and talk to people over the phone, skype, hangouts, in code, and smoke signals :)
 
 ### Quote from Decentralized Storytelling (from the professor)
 
