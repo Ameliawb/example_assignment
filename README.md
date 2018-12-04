@@ -17,15 +17,7 @@ I approach decentralized storytelling in a Haudenosaunee way: Our current world 
 
 Today the stories we tell are embedded in networks and pixels instead of wampum and rivers, but they may still have the power to last through seven generations, to influence the lives of my great-great-great-great-great-great grandchildren, for the people I do not yet know, and those I have only met in dreams.
 
-### Prerequisites
-
-Details on libraries that could be a good fit for this project and  things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
+### Turning in your work
 
 On [date] edit your name to include the link to your prototype in advance of our class crit on [date]
 
@@ -39,15 +31,19 @@ and keep it up to date
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Your demo code, video and blog post.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Ask your family, ask a historian, ask quora.  Showcase your research in a blog post and connect a link to that research here
+
+```
+Student Name [ insert link to blog ] on date
+```
 
 ## Deployment
 
-Link to our AWS instance and Tensor Flow environment
+Link to our class AWS instance and Tensor Flow environment 
 
 ## Some fun frameworks
 
