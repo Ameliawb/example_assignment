@@ -1,4 +1,4 @@
-#Ancestral Technology
+# Ancestral Technology
 
 Look back into your family, distant past, family you have met, and your future generations.
 What technology was used by your relatives, and what seeds do you wish to plant into your current projects that you want to be embeded into the mainframe of what your distant Descendants will have as a bug in their future code.
@@ -11,7 +11,7 @@ Once you choose a technology, create your chosen ancestral technology with a cur
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Details on libraries that could be a good fit for this project and  things you need to install the software and how to install them
 
 ```
 Give examples
@@ -20,17 +20,12 @@ Give examples
 ### Installing
 
 On [date] edit your name to include the link to your prototype in advance of our class crit on [date]
-Student1
-Student2
-Student3
-Student4
-Student5
-Student6
+
 ```
-Student [ insert link to project ] on date
+Student Name [ insert link to project ] on date
 ```
 
-And repeat
+and keep it up to date
 
 ```
 until finished
@@ -42,27 +37,11 @@ End with an example of getting some data out of the system or using it for a lit
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Link to our AWS instance and Tensor Flow environment
 
-## Built With
+## Some fun frameworks
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
@@ -70,15 +49,12 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on a popular code of conduct, and the process for submitting pull requests.  Think about creating a code of conduct for your new technology or new use of an exsisting ancestral technology.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Inspirations** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth) (edit this to include a list from the class)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
