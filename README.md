@@ -1,8 +1,8 @@
 # Ancestral Technology
 
 Assignment: Create an Ancestral Technology.
-Research your family, the roots of your distant past, family you have met, and your future generations.
-What technology was used by your relatives, and what seeds do you wish to plant into your current projects that hope will be embeded into the mainframe of technology used by your distant Descendants.  Can you leave them a powerful bug that will still corrupt or inspire their future codebase?
+Research your family, the roots of your distant past, close family members, and dream about your descendants. 
+What technology was used in the past by your relatives, and what seeds do you wish to plant into your current projects that hope will be embeded into the mainframe of technology used by your distant descendants.  Can you leave them a powerful bug that will still corrupt or inspire their future codebase?
 
 ## Getting Started
 
